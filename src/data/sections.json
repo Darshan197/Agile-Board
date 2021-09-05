@@ -1,0 +1,22 @@
+[
+    {
+        "title": "To Do",
+        "slug": "todo"
+    },
+    {
+        "title": "In Progress",
+        "slug": "progress"
+    },
+    {
+        "title": "In Review",
+        "slug": "review"
+    },
+    {
+        "title": "In Verification",
+        "slug": "verification"
+    },
+    {
+        "title": "Done",
+        "slug": "done"
+    }
+]

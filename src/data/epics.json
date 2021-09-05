@@ -1,0 +1,51 @@
+[
+    {
+      "summary": "Managing a question banks of the organization",
+      "key": "JA-564",
+      "id": 1001,
+      "colorClass": "bg-green-300|text-green-900",
+      "name": "Question Bank Management"
+    },
+    {
+      "summary": "Managing job positions and the process of recruitment",
+      "key": "JA-362",
+      "id": 1002,
+      "colorClass": "bg-red-300|text-gray-700",
+      "name": "Recruitment Management"
+    },
+    {
+      "summary": "To manage applicants for a particular organization",
+      "key": "JA-262",
+      "id": 1003,
+      "colorClass": "bg-purple-300|text-purple-900",
+      "name": "Applicant Management"
+    },
+    {
+      "summary": "To manage interviews for a particular organization",
+      "key": "JA-112",
+      "id": 1004,
+      "colorClass": "bg-blue-200|text-blue-900",
+      "name": "Interview Management"
+    },
+    {
+      "summary": "Managing users of particular organization",
+      "key": "JA-109",
+      "id": 1005,
+      "colorClass": "bg-gray-200|text-gray-500",
+      "name": "User Management"
+    },
+    {
+      "summary": "Flow of the interview questions",
+      "key": "JA-5",
+      "id": 1006,
+      "colorClass": "bg-gray-600|text-gray-100",
+      "name": "Applicant Interview"
+    },
+    {
+      "summary": "To show statistics to the organization",
+      "key": "JA-4",
+      "id": 1007,
+      "colorClass": "bg-yellow-200|text-gray-700",
+      "name": "Organization Dashboard"
+    }
+  ]

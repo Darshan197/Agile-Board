@@ -1,0 +1,91 @@
+{
+    "todo": [
+        {
+            "id": "1",
+            "title": "Change the API route path for the API",
+            "startDate": "Aug 27",
+            "epic": 1001,
+            "type": "Task",
+            "author": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "2",
+            "title": "[Applicant Management] Create API for adding new applicant",
+            "startDate": "Aug 24",
+            "epic": 1002,
+            "type": "Bug",
+            "author": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "3",
+            "title": "Send invite to applicant after creating from the applicants screen",
+            "startDate": "Aug 20",
+            "epic": 1003,
+            "type": "Story",
+            "author": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        }
+    ],
+    "inProgress": [
+        {
+            "id": "1",
+            "title": "Display same email multiple times in a suggestion dropdown of applicant invite",
+            "startDate": "Aug 27",
+            "epic": 1005,
+            "type": "Bug",
+            "author": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "2",
+            "title": "Show video thumbnail and play button in a interview detail screen",
+            "startDate": "Aug 24",
+            "epic": 1001,
+            "type": "Story",
+            "author": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        }
+    ],
+    "inReview": [
+        {
+            "id": "1",
+            "title": "[BE] [Interviews DB table update] Update the invite applicant for the interview API",
+            "startDate": "Aug 24",
+            "epic": 1007,
+            "type": "Story",
+            "author": "https://images.unsplash.com/photo-1586297135537-94bc9ba060aa?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "2",
+            "title": "[BE] Apllicant invite send with a email with white space",
+            "startDate": "Aug 20",
+            "epic": 1006,
+            "type": "Task",
+            "author": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "3",
+            "title": "[BE] UML diagram - Update applicants table data design for the interviews screen",
+            "startDate": "Aug 20",
+            "epic": 1002,
+            "type": "Bug",
+            "author": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        }
+    ],
+    "inVerification" :[
+        {
+            "id": "1",
+            "title": "[NPM] Send a video recording bytes on interview process",
+            "startDate": "Aug 27",
+            "epic": 1004,
+            "type": "Story",
+            "author": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        },
+        {
+            "id": "2",
+            "title": "[FE] Change the UI of bulk/manually invite applicant modal [Jaimik]",
+            "startDate": "Aug 27",
+            "epic": 1003,
+            "type": "Task",
+            "author": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=80"
+        }
+    ],
+    "done": []
+}
