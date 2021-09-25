@@ -1,5 +1,5 @@
 interface Task {
-    id?: string
+    id: string
     title?: string
     startDate?: string
     epic: number
