@@ -20,10 +20,10 @@ const Resizer = ({ expanded, toggle }: { expanded: boolean, toggle: Function }) 
       <div className="line"></div>
     </div>
     <div>
-      <button aria-label="toggle" className={`btn ${!expanded ? 'opacity-100' : 'opacity-0'}`}>
+      <button aria-label="toggle" className={`btn ${expanded ? 'opacity-100' : 'opacity-100'}`}>
         <div className="overlay"></div>
         <span className="cursor-pointer text-gray-500 flex justify-center flex-shrink-0 leading-none">
-          <ChevronIcon className={`w-5 h-5 icon transform ${expanded ? '-rotate-180' : ''}`} />
+          <ChevronIcon className={`w-5 h-5 icon transform ${expanded ? '-rotate-180 mt-0.5 ml-0.5' : 'mb-1 mr-1'}`} />
         </span>
       </button>
     </div>
